@@ -12,7 +12,7 @@ namespace ServiceToolTest
         {
             try
             {
-
+                Console.WriteLine("This is for service tool test.");
             }
             catch (Exception ex)
             {
